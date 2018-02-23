@@ -17,8 +17,8 @@ system info for your computer:
 import systeminfo
 
 def main():
-    output=systeminfo.get_platform_info()
-    print(output)
+    output=systeminfo.get_platform_info()<br />
+    print(output)<br />
     return
     
 Alternatively you may type sysinfo into the command line which shall execute the above code in 
