@@ -8,4 +8,4 @@ try:
 except DistributionNotFound:
     __version__ = 'unknown'
 
-from systeminfo import *
+from systeminfo.main import *
